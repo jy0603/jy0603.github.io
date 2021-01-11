@@ -1,6 +1,6 @@
 ---
 layout: list
-title: Dev
+title: 석사과정 중
 slug: dev
 menu: true
 submenu: true
